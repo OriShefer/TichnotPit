@@ -6,4 +6,30 @@ public class Node {
     this.product = product;
     this.next = null;
   }
+
+
+  public Product getProduct() {
+    return product;
+  }
+
+  public void setProduct(Product product) {
+    this.product = product;
+  }
+
+  public Node getNext() {
+    return next;
+  }
+
+  public void setNext(Node next) {
+    this.next = next;
+  }
+
+  @Override
+  public String toString() {
+    return "Node {" +
+            "product = " + this.getProduct() +
+            ", next = " + this.getNext() +
+            '}';
+  }
+
 }
