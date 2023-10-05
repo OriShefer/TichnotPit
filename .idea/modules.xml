@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP/ADT Practice/ADT Practice.iml" filepath="$PROJECT_DIR$/OOP/ADT Practice/ADT Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/OOP/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Advanced Debug/Advanced Debug.iml" filepath="$PROJECT_DIR$/Basic/Advanced Debug/Advanced Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/CollectionExrc/CollectionExrc.iml" filepath="$PROJECT_DIR$/OOP/CollectionExrc/CollectionExrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Generics/Generics.iml" filepath="$PROJECT_DIR$/OOP/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/OOP/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/OOP/Linked List/Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Override/Override.iml" filepath="$PROJECT_DIR$/OOP/Override/Override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/OOP/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Basic/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Engineering/Software Engineering.iml" filepath="$PROJECT_DIR$/Software Engineering/Software Engineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Taraz 1/Taraz 1.iml" filepath="$PROJECT_DIR$/OOP/Taraz 1/Taraz 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Taraz1/Taraz1.iml" filepath="$PROJECT_DIR$/Basic/Taraz1/Taraz1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Taraz4/Taraz4.iml" filepath="$PROJECT_DIR$/Basic/Taraz4/Taraz4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Technot Pit.iml" filepath="$PROJECT_DIR$/.idea/Technot Pit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Twitter/Twitter.iml" filepath="$PROJECT_DIR$/Basic/Twitter/Twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/arrays/arrays.iml" filepath="$PROJECT_DIR$/Basic/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/taraz2/taraz2.iml" filepath="$PROJECT_DIR$/Basic/taraz2/taraz2.iml" />
+    </modules>
+  </component>
+</project>
