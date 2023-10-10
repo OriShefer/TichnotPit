@@ -13,7 +13,6 @@ public class Main {
 
         shelf.printItems();
 
-        shelf.sortLeftSide();
         System.out.println("-----------------------------");
         shelf.printItems();
 
